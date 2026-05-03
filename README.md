@@ -42,6 +42,7 @@ No window switching. No naming. Just adjust and continue.
 
 ### 1. Install dependencies
 
+Arch/CachyOS
 ```bash
 sudo pacman -S python python-pillow python-gobject gtk3 gtk-layer-shell gobject-introspection
 ```
