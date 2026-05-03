@@ -221,21 +221,5 @@ rm ~/.config/gif-widget/state.json
 
 ---
 
-## 📌 Quick Reference
-
-```fish
-gif chika -always
-gif edit
-gif list
-gif kill-all
-```
-
-## 💡 Recommendation
-
-* Short interaction → GIF
-* Full showcase → YouTube
-* High quality → attach `.mp4` to releases
-
----
 
 Enjoy ✨
