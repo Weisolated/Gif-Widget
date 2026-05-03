@@ -221,5 +221,6 @@ rm ~/.config/gif-widget/state.json
 
 ---
 
+Made with Cloude Opus
 
 Enjoy ✨
