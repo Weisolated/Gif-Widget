@@ -3,7 +3,7 @@
 
 # 🎀 GIF Widget
 
-A lightweight floating GIF overlay for Niri.
+A lightweight floating GIF overlay for Niri. Made with AI.
 
 ---
 
